@@ -2,7 +2,7 @@
  *  	Denon Network Receiver 
  *    	Based on Denon/Marantz receiver by Kristopher Kubicki and edited version by sbdobrescu
  *    	SmartThings driver to connect your Denon Network Receiver to SmartThings
- *		Tested with AVR-S710W (game1 & game2 inputs are not available), AVR 1912
+ *		Tested with AVR-S920W
  */
 
 preferences {
